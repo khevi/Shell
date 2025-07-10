@@ -10,6 +10,7 @@
 #   Please provide your github token and rest api to the script as input
 #
 # Added line for test
+# J' aime Ekua et personne ne peut m'empecher:
 #
 ################################
 
